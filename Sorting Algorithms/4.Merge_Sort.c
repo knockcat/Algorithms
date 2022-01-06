@@ -12,7 +12,7 @@ Time Complexity
 void MergeSort(int*,int,int);
 int Merge(int*,int ,int,int);
 void print(int*,int);
-void swap(int*,int*);
+
 
 int main()
 {
