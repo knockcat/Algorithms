@@ -1,4 +1,4 @@
-// Heap Sort
+// Heap Sort (Max) Ascending Order Sorting
 
 /* 
 Time Complexity
@@ -8,7 +8,7 @@ Time Complexity
 
 #include<stdio.h>
 
-void heapsort(int*, int);
+void heapSort(int*, int);
 void heapify(int*, int, int);
 void swap(int*, int*);
 void print(int*, int);
