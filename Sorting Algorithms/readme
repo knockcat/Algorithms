@@ -5,3 +5,9 @@ This directory contains Sorting Algorithms->
 2.  Bubble Sort
 3.  Quick Sort
 4.  Merge Sort
+5.  Max Heap Sort
+6.  Min Heap Sort
+7.  Counting Sort
+8.  Shell Sort
+9.  Radix Sort
+10. Bucket Sort
