@@ -1,0 +1,20 @@
+  Hashing Techniques
+  
+  
+      1.    Open Hashing      (Closed Addressing)
+      
+      
+                 *    Chaining
+                 
+                 
+      2.    Closed Hasing     (Open Addressing)
+      
+      
+                  *   Linear Probing
+                  
+                  
+                  *   Quadratic Probing
+                  
+                  
+                  *   Double Hashing
+                  
